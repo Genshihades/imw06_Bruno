@@ -123,6 +123,9 @@ También podremos comprobarlo en el navegador.
 
 ![1](./img/7.png)
 
+Luego entraremos y crearemos una nueva entrada, en ella ajustaremos los permalinks de dia y Nombre y crearemos un post.
+
+![](./img/8.png) 
 
 
 #### ***Conclusiones***.<a name="id5"></a>
